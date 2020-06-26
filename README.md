@@ -1,5 +1,5 @@
 # Linear-Regression
-Pierian Data Chapter 11 of Linear Regression with my own take and EDA
+Regression with my own take and EDA
 
 # Summary
 
