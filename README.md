@@ -1,4 +1,4 @@
-# Linear-Regression
+# Regression
 Regression with my own take and EDA
 
 # Summary
